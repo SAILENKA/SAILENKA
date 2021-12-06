@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](https://raw.githubusercontent.com/SAILENKA/c-language/main/cse.png)
 
 **SAILENKA/SAILENKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
